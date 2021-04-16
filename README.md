@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonardoHiram
-- 👀 I’m interested in Gesostats
+- 👀 I’m interested in Geostats
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
