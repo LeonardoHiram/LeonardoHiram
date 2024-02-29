@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoHiram
 - 👀 I’m interested in Geostats algorithm 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on Geostats Routines for Mineral Resources Evaluation
 - 📫 How to reach me l_nunez@yahoo.com
 
